@@ -1,5 +1,9 @@
 #version 300 es
 
+// Author: JUNSEOK LEE
+// Date: 2025 December 29
+// as the days dwindle down to a precious few
+
 precision highp float;
 
 layout(location = 0) in vec2 aPosition;

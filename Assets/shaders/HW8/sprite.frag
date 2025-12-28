@@ -1,5 +1,9 @@
 #version 300 es
 
+// Author: JUNSEOK LEE
+// Date: 2025 December 29
+// as the days dwindle down to a precious few
+
 precision mediump float;
 
 in vec2 vTexCoord;

@@ -1,7 +1,8 @@
 /**
  * \file
- * \author Junseok Lee
- * \date 2025 Fall
+ * \author JUNSEOK LEE
+ * \date 2025 December 29
+ * \note as the days dwindle down to a precious few
  * \par CS200 Computer Graphics I
  * \copyright DigiPen Institute of Technology
  */
